@@ -19,7 +19,7 @@ The objective of this project was for the user to experience the force exerted o
 # Summary
 - User is able to feel the force exerted on the finger sensors of the robotic hand when wearing the haptic feedback glove
 - When greater pressure is exerted on the finger sensors, the air sacs in the glove inflate largely which emulates greater touch sensations for the user
-- When less pressure is exerted on the finger sensors, the air sacs in the glove inflate less which emulates less touch sensaations for the user
-- When no pressure is exerted on the finger sensors, the air sacs in the glove deflate and the user would not feel any touch sensation
+- When less pressure is exerted on the finger sensors, the air sacs in the glove inflate less which emulates less touch sensations for the user
+- When no pressure is exerted on the finger sensors, the air sacs in the glove deflate and the user would not feel any touch sensations
 
   
