@@ -7,7 +7,7 @@ The objective of this project was for the user to experience the force exerted o
 # Description of Robotic Finger Sensors (LPS25HB) Program
 - The robotic finger sensors directly measures the pressure exerted on each finger of the robotic hand
 - The sensors are connected to a mutliplexer as it acts as a channel to store each pressure input of each finger sensor and is received within the microcontroller
-- The pressure readings of each finger sensor are wirelessly transmitted to the haptic feedback glove through I2C communication (using the nRF24L01 module).
+- The pressure readings of each finger sensor are wirelessly transmitted to the haptic feedback glove through I2C communication (using the nRF24L01 module)
 
 # Description of Pneumatic System of Haptic Feedback Glove Program
 - The haptic feedback glove acts as a receiver as it receives the pressure readings from the finger sensors through I2C communication (using the nRF24L01 module)
