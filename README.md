@@ -20,9 +20,8 @@ The objective of this project was for the user to experience the force exerted o
 - The pressure readings from each finger sensor (ranging from 0kPa to 12kPa) are mapped linearly to PWM values (0 to 255) for the motor control (L293D)
 - The PWM values from the L293D would control the air pump DC motors in operating the pneumatic system of the glove
 - The pneumatic system compromises of air pump DC motors and air valves (FA0520E) and there is one of each for every finger of the glove. Each air pump motor is connected to the air valve, and the air valve will be attached to an air sac on each finger of the glove
-<img width="124" alt="image" src="https://github.com/briancheng195/Development-of-Tele-Operated-Robotic-Arm-and-Haptic-Feedback-Glove/assets/122734373/64b89397-c4f6-4312-ab56-d3903554e777">
-
 - The valve acts as a gate to either inflate or deflate the air sac when the DC motor is actuated by the PWM value, or it releases air from the air sac when the motor is not actuated
+<img width="124" alt="image" src="https://github.com/briancheng195/Development-of-Tele-Operated-Robotic-Arm-and-Haptic-Feedback-Glove/assets/122734373/64b89397-c4f6-4312-ab56-d3903554e777">
 <img width="405" alt="image" src="https://github.com/briancheng195/Development-of-Tele-Operated-Robotic-Arm-and-Haptic-Feedback-Glove/assets/122734373/ce00e40d-c870-433e-b6f1-8a0569d9b1f9">
 
 # Electronics Design for Pneumatic System of Haptic Feedback Glove
