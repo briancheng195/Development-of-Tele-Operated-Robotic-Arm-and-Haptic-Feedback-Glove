@@ -26,12 +26,6 @@
 # Electronics Design for Pneumatic System of Haptic Feedback Glove
 <img width="500" alt="image" src="https://github.com/briancheng195/Development-of-Tele-Operated-Robotic-Arm-and-Haptic-Feedback-Glove/assets/122734373/2d19b5af-f786-4ca2-b44c-6a95ca2d3d78">
 
-# Summary
-- User is able to feel the force exerted on the finger sensors of the robotic hand when wearing the haptic feedback glove
-- When greater pressure is exerted on the finger sensors, the air sacs in the glove inflate largely which emulates greater touch sensations for the user
-- When less pressure is exerted on the finger sensors, the air sacs in the glove inflate less which emulates less touch sensations for the user
-- When no pressure is exerted on the finger sensors, the air sacs in the glove deflate and the user would not feel any touch sensations
-
 # Mechanical and Electrical Designs for Robotic Hand with Finger Sensors
 <img width="500" alt="image" src="https://github.com/briancheng195/Development-of-Tele-Operated-Robotic-Arm-and-Haptic-Feedback-Glove/assets/122734373/286886a4-6135-44a5-bce3-c8892cd3a341">
 <img width="500" alt="image" src="https://github.com/briancheng195/Development-of-Tele-Operated-Robotic-Arm-and-Haptic-Feedback-Glove/assets/122734373/cd91ba12-77e5-4bfe-bdeb-40a3d6b59b8e">
@@ -40,4 +34,12 @@
 <img width="500" alt="image" src="https://github.com/briancheng195/Development-of-Tele-Operated-Robotic-Arm-and-Haptic-Feedback-Glove/assets/122734373/f4aaba6c-112f-44ba-8c25-c3a4be2087a1">
 <img width="500" alt="image" src="https://github.com/briancheng195/Development-of-Tele-Operated-Robotic-Arm-and-Haptic-Feedback-Glove/assets/122734373/73ad5775-955e-4885-9826-d82b8d3dcb2b">
 
+# Video Demonstration
+https://www.youtube.com/watch?v=OH2SIxybgDM&feature=youtu.be
+
+# Summary
+- User is able to feel the force exerted on the finger sensors of the robotic hand when wearing the haptic feedback glove
+- When greater pressure is exerted on the finger sensors, the air sacs in the glove inflate largely which emulates greater touch sensations for the user
+- When less pressure is exerted on the finger sensors, the air sacs in the glove inflate less which emulates less touch sensations for the user
+- When no pressure is exerted on the finger sensors, the air sacs in the glove deflate and the user would not feel any touch sensations
 
