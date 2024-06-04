@@ -11,7 +11,6 @@ The objective of this project was for the user to experience the force exerted o
 - The robotic finger sensors directly measures the pressure exerted on each finger of the robotic hand
 - The sensors are connected to a mutliplexer as it acts as a channel to store each pressure input of each finger sensor and is received within the microcontroller
 - The pressure readings of each finger sensor are wirelessly transmitted to the haptic feedback glove through I2C communication (using the nRF24L01 module)
-![S-14687-Robotic_Finger_Sensor_v2-05b-S](https://github.com/briancheng195/Development-of-Tele-Operated-Robotic-Arm-and-Haptic-Feedback-Glove/assets/122734373/b7aaf19b-5116-4928-a8e2-b12b42edcd43)
 
 # Electronics Design for Robotic Finger Sensors (Transmitter)
 <img width="334" alt="image" src="https://github.com/briancheng195/Development-of-Tele-Operated-Robotic-Arm-and-Haptic-Feedback-Glove/assets/122734373/4c1c6a4f-3edd-4b3c-8019-b480dde4fbce">
@@ -22,6 +21,7 @@ The objective of this project was for the user to experience the force exerted o
 - The PWM values from the L293D would control the air pump DC motors in operating the pneumatic system of the glove
 - The pneumatic system compromises of air pump DC motors and air valves (FA0520E) and there is one of each for every finger of the glove. Each air pump motor is connected to the air valve, and the air valve will be attached to an air sac on each finger of the glove
 <img width="124" alt="image" src="https://github.com/briancheng195/Development-of-Tele-Operated-Robotic-Arm-and-Haptic-Feedback-Glove/assets/122734373/64b89397-c4f6-4312-ab56-d3903554e777">
+
 - The valve acts as a gate to either inflate or deflate the air sac when the DC motor is actuated by the PWM value, or it releases air from the air sac when the motor is not actuated
 <img width="405" alt="image" src="https://github.com/briancheng195/Development-of-Tele-Operated-Robotic-Arm-and-Haptic-Feedback-Glove/assets/122734373/ce00e40d-c870-433e-b6f1-8a0569d9b1f9">
 
