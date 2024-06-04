@@ -20,7 +20,7 @@
 - The PWM values from the L293D would control the air pump DC motors in operating the pneumatic system of the glove
 - The pneumatic system compromises of air pump DC motors and air valves (FA0520E) and there is one of each for every finger of the glove. Each air pump motor is connected to the air valve, and the air valve will be attached to an air sac on each finger of the glove
 - The valve acts as a gate to either inflate or deflate the air sac when the DC motor is actuated by the PWM value, or it releases air from the air sac when the motor is not actuated
-<img width="300" alt="image" src="https://github.com/briancheng195/Development-of-Tele-Operated-Robotic-Arm-and-Haptic-Feedback-Glove/assets/122734373/64b89397-c4f6-4312-ab56-d3903554e777">
+<img width="200" alt="image" src="https://github.com/briancheng195/Development-of-Tele-Operated-Robotic-Arm-and-Haptic-Feedback-Glove/assets/122734373/64b89397-c4f6-4312-ab56-d3903554e777">
 <img width="500" alt="image" src="https://github.com/briancheng195/Development-of-Tele-Operated-Robotic-Arm-and-Haptic-Feedback-Glove/assets/122734373/ce00e40d-c870-433e-b6f1-8a0569d9b1f9">
 
 # Electronics Design for Pneumatic System of Haptic Feedback Glove
